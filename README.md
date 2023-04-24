@@ -16,7 +16,7 @@ Zsh zshrc file shortcuts
 * url security test
 * make sotware engineering backup
 
-# packages for install to use shortcuts:
+# packages to install and use shortcuts:
 
 * To use pip shortcut install pip:
 <pre><code>sudo apt-get install python3-pip
