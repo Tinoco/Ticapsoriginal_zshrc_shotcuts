@@ -51,3 +51,6 @@ Zsh zshrc file shortcuts
 * To save zsrc chages after edit zshrc file type:
 <pre><code>source ~/.zshrc
 </code></pre>
+
+## about:
+* code and resource used in [`Ticapsoriginal`](https://ticapsoriginal.com)
