@@ -58,6 +58,9 @@ alias pl='pip list'
 alias pu='pip uninstall'
 
 # cmds django
+alias makedump='./manage.py dumpdata > db.json'
+alias integritydump='./manage.py dumpdata --exclude auth.permission --exclude contenttypes > db.json'
+alias loaddump='./manage.py loaddata db.json'
 alias csu='python manage.py createsuperuser'
 alias run='python manage.py runserver'
 alias dsp='django-admin startproject'
