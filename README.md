@@ -1,6 +1,6 @@
 # Ticapsoriginal_zshrc_shortcuts
 
-Zsh zshrc file shortcuts 
+Zsh zshrc file shortcuts ( osx environment ) 
 
 # Shortcuts for professionals increase productivity with: 
 
