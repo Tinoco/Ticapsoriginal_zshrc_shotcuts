@@ -32,7 +32,7 @@ vcol() {
 }
 vtab() {
     sqlite3 db.dbname 'PRAGMA table_info(data_manager_data)' 
-
+}
 # check website security
 alias vssl="curl --insecure -vvI https://www.ticapsoriginal.com 2>&1 | awk 'BEGIN { cert=0 } /^\* SSL connection/ { cert=1 } /^\*/ { if (cert) print }'"
 
