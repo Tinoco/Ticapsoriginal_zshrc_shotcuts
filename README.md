@@ -1,4 +1,4 @@
-# Ticapsoriginal_zshrc_shortcuts
+# readtimepro_zshrc_shortcuts
 
 Zsh zshrc file shortcuts ( osx environment ) 
 
@@ -39,10 +39,10 @@ Zsh zshrc file shortcuts ( osx environment )
 
 # clone or edit and save zshrc file:
 
-* clone Ticapsoriginal zshrc file to yout ~/ folder 
+* clone readtimepro zshrc file to yout ~/ folder 
 <pre><code>cd ~/
 </code></pre>
-<pre><code>git clone https://github.com/Tinoco/Ticapsoriginal_zshrc_shortcuts.git
+<pre><code>git clone https://github.com/jeancarlosti/readtimepro_zshrc_shortcuts.git
 </code></pre>
 
 * To edit zsrc file type:
@@ -53,4 +53,4 @@ Zsh zshrc file shortcuts ( osx environment )
 </code></pre>
 
 ## about:
-* code and resource used in [`Ticapsoriginal`](https://ticapsoriginal.com)
+* code and resource used in [`readtimepro`](https://readtime.pro)
